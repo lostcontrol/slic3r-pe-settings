@@ -1,2 +1,3 @@
-cache
-PrusaSlicer.ini
+physical_printer/
+cache/
+*.ini
